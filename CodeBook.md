@@ -1,10 +1,3 @@
----
-title: "Getting and Cleaning Data CodeBook"
-author: "DataRacer11"
-date: "Saturday, June 20, 2015"
-output: html_document
----
-
 This CodeBook describes the `Values of the Project Variables`, the `Course Project Data`, as well as `Transformations` and `Work Performed to Clean-up the Data` called CodeBook.md. 
 
 __Values of Project Variables__ (please refer to greater details on each of the variables in `run_analysis.R` and the `README.md` file in this repro)  
