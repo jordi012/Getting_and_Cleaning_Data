@@ -1,9 +1,3 @@
----
-title: "Getting and Cleaning Data-Course Project"
-author: "DataRacer11"
-date: "Friday, June 19, 2015"
-output: html_document
----  
 Please refer to References at bottom of this README.md file.
 
 __Purpose of This Project__  
